@@ -1,0 +1,9 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'JetBrains Mono', 'Victor Mono'",
+    "editor.fontWeight": "500"
+}
